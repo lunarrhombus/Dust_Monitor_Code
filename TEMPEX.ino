@@ -2,7 +2,8 @@
 // The Pennsylvania State University
 // The Larson Transportation Institute
 // Dust Monitoring System V.8 (stable)
-// 7 - 24 - 2018
+// Created: 7 - 24 - 2018
+// Lasted updated: 2 - 22 - 2020
 // Written By Mohamed Abuzaid - lunarmoh@gmail.com
 // This code takes data from three sensors, processes the data.
 // After which the data is outputted via usb to a computer
